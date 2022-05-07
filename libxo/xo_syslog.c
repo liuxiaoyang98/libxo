@@ -58,7 +58,6 @@
 #include <stdarg.h>
 #include <sys/time.h>
 #include <sys/types.h>
-#include <sys/sysctl.h>
 
 #include "xo_config.h"
 #include "xo.h"

@@ -69,7 +69,6 @@ AC_CHECK_FUNCS([dlfunc])
 AC_CHECK_HEADERS([sys/time.h])
 AC_CHECK_HEADERS([ctype.h errno.h stdio.h stdlib.h])
 AC_CHECK_HEADERS([string.h sys/param.h unistd.h ])
-AC_CHECK_HEADERS([sys/sysctl.h])
 AC_CHECK_HEADERS([threads.h])
 AC_CHECK_HEADERS([monitor.h])
 
